@@ -50,7 +50,6 @@ TimingPoints:
   Bpm: 180
 SliderVelocities:
 - Multiplier: 0.5
-- Multiplier: 77.575325012207031
 - StartTime: 45
   Multiplier: 4.7749490737915039
 - StartTime: 60.625
