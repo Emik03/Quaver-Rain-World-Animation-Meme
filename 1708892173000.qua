@@ -7476,15 +7476,7 @@ SliderVelocities:
   Multiplier: 0.0034827198833227158
 - StartTime: 49832.625
   Multiplier: 0.0017193240346387029
-- StartTime: 49846.5
-  Multiplier: 0.0008487835293635726
-- StartTime: 49860.375
-  Multiplier: 0.0004190213221590966
-- StartTime: 49874.25
-  Multiplier: 0.00020685941854026169
-- StartTime: 49888.125
-  Multiplier: 0.00010212086635874584
-- StartTime: 49902
+- StartTime: 49847
   Multiplier: 1
 - StartTime: 49991
 - StartTime: 50001.625
