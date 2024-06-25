@@ -53951,19 +53951,19 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 49846
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 49902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
-- StartTime: 49942
+- StartTime: 49902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-- StartTime: 49991
+- StartTime: 49942
   Lane: 3
+  KeySounds: []
+  EditorLayer: 3
+- StartTime: 49991
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 1
