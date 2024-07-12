@@ -10,6 +10,7 @@ Tags: sv, slugcat, five pebbles, 5 pebbles, looks to the moon, lttm, mustard, fp
 Creator: Emik
 DifficultyName: five pebbsi
 Description: Created at 1708699262000
+LegacyLNRendering: true
 BPMDoesNotAffectScrollVelocity: true
 InitialScrollVelocity: 1
 EditorLayers:
@@ -51348,59 +51349,72 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 1878
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 1878
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+- StartTime: 1878
+  Lane: 2
+  EndTime: 1933
+  KeySounds: []
+  EditorLayer: 5
 - StartTime: 1933
   Lane: 1
+  EndTime: 1989
   KeySounds: []
   EditorLayer: 5
 - StartTime: 1989
   Lane: 4
+  EndTime: 2045
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2045
   Lane: 2
+  EndTime: 2100
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2100
   Lane: 1
+  EndTime: 2156
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2156
   Lane: 4
+  EndTime: 2211
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2211
   Lane: 2
+  EndTime: 2267
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2267
   Lane: 1
+  EndTime: 2322
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2322
   Lane: 4
+  EndTime: 2378
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2378
   Lane: 2
+  EndTime: 2433
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2433
   Lane: 1
+  EndTime: 2489
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2489
   Lane: 4
+  EndTime: 2545
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2545
   Lane: 2
+  EndTime: 2600
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2600
@@ -51409,6 +51423,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 2656
   Lane: 4
+  EndTime: 3100
   KeySounds: []
   EditorLayer: 5
 - StartTime: 2711
@@ -51422,6 +51437,10 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 3211
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 3
+- StartTime: 3211
   Lane: 1
   EndTime: 4045
   HitSound: Normal, Whistle
@@ -51429,58 +51448,67 @@ HitObjects:
   EditorLayer: 4
 - StartTime: 3211
   Lane: 3
+  EndTime: 3267
   KeySounds: []
   EditorLayer: 5
-- StartTime: 3211
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 3267
   Lane: 2
+  EndTime: 3322
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3322
   Lane: 4
+  EndTime: 3378
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3378
   Lane: 3
+  EndTime: 3433
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3433
   Lane: 2
+  EndTime: 3489
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3489
   Lane: 4
+  EndTime: 3545
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3545
   Lane: 3
+  EndTime: 3600
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3600
   Lane: 2
+  EndTime: 3656
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3656
   Lane: 4
+  EndTime: 3711
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3711
   Lane: 3
+  EndTime: 3767
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3767
   Lane: 2
+  EndTime: 3822
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3822
   Lane: 4
+  EndTime: 3878
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3878
   Lane: 3
+  EndTime: 3933
   KeySounds: []
   EditorLayer: 5
 - StartTime: 3933
@@ -51489,18 +51517,19 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 3989
   Lane: 4
+  EndTime: 4045
   KeySounds: []
   EditorLayer: 5
+- StartTime: 4045
+  Lane: 3
+  KeySounds: []
+  EditorLayer: 3
 - StartTime: 4045
   Lane: 2
   EndTime: 4545
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
-- StartTime: 4045
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 4545
   Lane: 3
   EndTime: 5378
@@ -51508,55 +51537,67 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 4545
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 4545
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+- StartTime: 4545
+  Lane: 4
+  EndTime: 4600
+  KeySounds: []
+  EditorLayer: 5
 - StartTime: 4600
   Lane: 2
+  EndTime: 4656
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4656
   Lane: 1
+  EndTime: 4711
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4711
   Lane: 4
+  EndTime: 4767
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4767
   Lane: 2
+  EndTime: 4822
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4822
   Lane: 1
+  EndTime: 4878
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4878
   Lane: 4
+  EndTime: 4933
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4933
   Lane: 2
+  EndTime: 4989
   KeySounds: []
   EditorLayer: 5
 - StartTime: 4989
   Lane: 1
+  EndTime: 5045
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5045
   Lane: 4
+  EndTime: 5100
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5156
   Lane: 4
+  EndTime: 5267
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5267
   Lane: 2
+  EndTime: 5322
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5378
@@ -51565,10 +51606,12 @@ HitObjects:
   EditorLayer: 3
 - StartTime: 5545
   Lane: 1
+  EndTime: 5628
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5628
   Lane: 2
+  EndTime: 5795
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5711
@@ -51578,6 +51621,7 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 5795
   Lane: 1
+  EndTime: 5961
   KeySounds: []
   EditorLayer: 5
 - StartTime: 5878
@@ -51591,14 +51635,17 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 6017
   Lane: 1
+  EndTime: 6211
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6045
   Lane: 2
+  EndTime: 6155
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6100
   Lane: 3
+  EndTime: 6378
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6128
@@ -51609,14 +51656,17 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 6211
   Lane: 2
+  EndTime: 6322
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6267
   Lane: 1
+  EndTime: 6378
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6322
   Lane: 4
+  EndTime: 6378
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6378
