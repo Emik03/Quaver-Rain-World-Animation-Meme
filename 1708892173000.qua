@@ -56070,7 +56070,7 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 1
-- StartTime: 128748
+- StartTime: 128665
   Lane: 4
   HitSound: Whistle
   KeySounds: []
