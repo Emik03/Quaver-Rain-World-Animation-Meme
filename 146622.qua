@@ -1,4 +1,5 @@
 AudioFile: audio.mp3
+SongPreviewTime: 45
 BackgroundFile: rainworldanimationmeme-bg.jpg
 BannerFile: rainworld-banner.png
 MapId: 146622
@@ -43,8 +44,6 @@ TimingPoints:
 - StartTime: 7545
   Bpm: 135
 - StartTime: 21383
-  Bpm: 180
-- StartTime: 35383
   Bpm: 180
 - StartTime: 35383
   Bpm: 180

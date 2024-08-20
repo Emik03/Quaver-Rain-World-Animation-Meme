@@ -1,4 +1,5 @@
 AudioFile: audio.mp3
+SongPreviewTime: 45
 BackgroundFile: rainworldanimationmeme-bg.jpg
 BannerFile: rainworld-banner.png
 MapId: 146621
@@ -43,8 +44,6 @@ TimingPoints:
 - StartTime: 7545
   Bpm: 135
 - StartTime: 21383
-  Bpm: 180
-- StartTime: 35383
   Bpm: 180
 - StartTime: 35383
   Bpm: 180
@@ -51877,7 +51876,7 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 6017
   Lane: 1
-  EndTime: 6045
+  EndTime: 6053
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6045
@@ -51887,7 +51886,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 6100
   Lane: 3
-  EndTime: 6128
+  EndTime: 6136
   KeySounds: []
   EditorLayer: 5
 - StartTime: 6128
@@ -53819,7 +53818,7 @@ HitObjects:
   EditorLayer: 2
 - StartTime: 47680
   Lane: 1
-  EndTime: 47707
+  EndTime: 47716
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
@@ -58525,7 +58524,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 135915
   Lane: 4
-  EndTime: 135942
+  EndTime: 135951
   KeySounds: []
   EditorLayer: 5
 - StartTime: 135942
@@ -60609,22 +60608,22 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 167665
   Lane: 4
-  EndTime: 167776
+  EndTime: 167784
   KeySounds: []
   EditorLayer: 5
 - StartTime: 167692
   Lane: 3
-  EndTime: 167776
+  EndTime: 167784
   KeySounds: []
   EditorLayer: 5
 - StartTime: 167720
   Lane: 2
-  EndTime: 167776
+  EndTime: 167784
   KeySounds: []
   EditorLayer: 5
 - StartTime: 167748
   Lane: 1
-  EndTime: 167776
+  EndTime: 167784
   KeySounds: []
   EditorLayer: 5
 - StartTime: 168331
